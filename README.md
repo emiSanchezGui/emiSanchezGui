@@ -16,6 +16,7 @@ Building end-to-end data solutions: ETL pipelines, predictive models, and BI das
 ### Featured Work
 - **Delivery Time Forecasting** — ML pipeline comparing LightGBM, XGBoost & Random Forest for logistics prediction
 - **Sports Analytics Dashboard** — Power BI model with advanced DAX for match outcome prediction
+- **Match Outcome Predictor** — Statistical model using Skellam distribution and attack/defense strength ratings to predict football match outcome probabilities
 
 ---
 
