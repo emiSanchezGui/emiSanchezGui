@@ -1,16 +1,23 @@
-## Hi there 👋
+# Emiliano Sánchez Guillén
 
-<!--
-**emiSanchezGui/emiSanchezGui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BI Analyst | Data Engineering & Machine Learning**
 
-Here are some ideas to get you started:
+Building end-to-end data solutions: ETL pipelines, predictive models, and BI dashboards within the Microsoft Fabric & Azure ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+**Languages:** Python · SQL · DAX
+**ML:** PySpark · LightGBM · XGBoost · MLflow · Optuna · PyTorch · Scikit-learn
+**BI:** Power BI · Microsoft Fabric · Delta Lake
+
+---
+
+### Featured Work
+- **Delivery Time Forecasting** — ML pipeline comparing LightGBM, XGBoost & Random Forest for logistics prediction
+- **Sports Analytics Dashboard** — Power BI model with advanced DAX for match outcome prediction
+
+---
+
+### Open to Freelance Projects
+Power BI dashboards · Data pipelines & ETL · Predictive modeling · SQL data modeling
